@@ -14,9 +14,9 @@ The [MyBinder.org](https://mybinder.org/) service let's you run the notebooks in
 
 Your task is to insert launch links for both cases.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AmirrezaDaghighi1/notebooks-sharing/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/AmirrezaDaghighi1/notebooks-sharing/HEAD?urlpath=lab)
 
-https://mybinder.org/v2/gh/AmirrezaDaghighi1/notebooks-sharing/HEAD
+https://mybinder.org/v2/gh/AmirrezaDaghighi1/notebooks-sharing/HEAD?urlpath=lab
  
 **Insert a MyBinder.org launch link for the [4-Predict.ipynb](notebooks/4-Predict.ipynb) notebook.**
 
